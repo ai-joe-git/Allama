@@ -11,6 +11,19 @@ A simple tool library to run LLM models with GGUF format, implemented from scrat
 - Streaming text generation
 - Advanced prompt engineering tools
 
+
+## Installation
+
+### Stand-alone Installation
+
+To install the stand-alone version of Allama use the following command:
+
+```bash
+curl -s https://raw.githubusercontent.com/ai-joe-git/Allama/main/allama.sh | sudo bash
+```
+
+This script will set up all components and configure them to work together seamlessly.
+
 ## Installation
 
 ```bash
